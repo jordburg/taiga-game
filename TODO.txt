@@ -1,0 +1,2 @@
+impliment Dijkstra's algorithm for pathfinding between tiles
+    needs dijkstra's because some tiles will have costs to get through
